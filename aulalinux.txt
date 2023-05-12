@@ -1,0 +1,15 @@
+todos os comandos no linux e sao digitados em minusculos
+
+sudo apt updat           #atualizar o sources.list
+sudo apt upgrade         #atualizar o sistema
+sudo apt ful-upgrade     #atualizaçao completa no final
+sudo apt dist-upgrad     #atualizaçao da distribuiçao
+sudo apt autoremove      #auto remoçao de software
+sudo apt autoclean       #auto limpeza do sistema operacional
+sudo reboot              #reiniciar o sistema 
+history                  #historico de comando 
+sudo apt install vim     #istalar software
+
+limpar: ctrl L 
+colar no terminal: ctrl shift V
+sair terminal: ctrl D
